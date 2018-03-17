@@ -12,7 +12,7 @@ var config = {
     authDomain: "seyi230496.firebaseapp.com",
     databaseURL: "https://seyi230496.firebaseio.com",
     projectId: "seyi230496",
-    storageBucket: "",
+    storageBucket: "seyi230496.appspot.com",
     messagingSenderId: "658972934438"
   };
   firebase.initializeApp(config);
